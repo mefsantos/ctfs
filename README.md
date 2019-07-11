@@ -1,6 +1,6 @@
 # CTFS
 
-## This repo contains CTFs binaries, scripts and solutions 
+ This repo contains CTFs binaries, scripts, notes and solutions
 
 ### Main CTF pages: 
 
@@ -14,14 +14,14 @@
 
 #### https://2018game.picoctf.com
 
-##### Some used tools
+### Some used tools
 
-* Ghidra
-* pwntools (Python)
-* gef (gdb)
-* ttps://projects.jason-rush.com/tools/buffer-overflow-eip-offset-string-generator/
-* stego-toolkit
-* john-the-ripper
-* dir-buster
+* [Ghidra](https://ghidra-sre.org/])
+* [pwntools (Python)](http://docs.pwntools.com/en/stable/])
+* [gef (gdb)](https://github.com/hugsy/gef])
+* [Buffer overflow offset generator website](https://projects.jason-rush.com/tools/)buffer-overflow-eip-offset-string-generator/]
+* [stego-toolkit](https://github.com/DominicBreuker/stego-toolkit])
+* [John The Ripper](https://www.openwall.com/john/])
+* [Dir Buster](https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project])
 
 
