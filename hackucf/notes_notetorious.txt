@@ -1,0 +1,45 @@
+## Notetorious ## 
+
+user: vputin
+goal: our objective is to exfiltrate his secret notes.
+
+nc ctf.hackucf.org 20009
+
+
+hierarquia
+
+notetorious/data/_user_/folders_and_notes
+
+user: pution
+pass: pution
+
+notetorious/data/pution
+
+display /notetorious/data/pution/mynote
+
+/notetorious/data/pution/mynote
+
+folders: myfolder, f1
+notes: mynote
+
+open coisas
+Error: [Errno 2] No such file or directory: 'coisas'
+
+[>] open ../coisas
+Error: Illegal note name: ../coisas (/notetorious/data/coisas)
+
+File "./login.py", line 20, in login
+  fd = os.open(pass_fname, os.O_RDWR | os.O_CREAT, 0600)
+
+[>] open notetorious/data/vputin
+Error: [Errno 2] No such file or directory: 'notetorious/data/vputin'
+
+
+[>] open ../../../../notetorious/data/vputin
+Error: Illegal note name: ../../../../notetorious/data/vputin (/notetorious/data/vputin)
+
+Username: user1
+Password: pass1
+Welcome, user1!
+
+/notetorious/data/pution/f1/mynote

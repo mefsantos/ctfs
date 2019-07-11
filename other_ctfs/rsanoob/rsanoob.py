@@ -1,0 +1,26 @@
+
+# with a small E and a cipher text smaller than n, mod_n operation is useless
+
+# rsa noob
+e1 = 1
+c1 = 9327565722767258308650643213344542404592011161659991421
+n1 = 245841236512478852752909734912575581815967630033049838269083
+
+
+bin_cleartext1 = pow(c1, 1/e1)
+# now convert to bin and string
+print "rsa nooob"
+print bin_cleartext1
+
+
+# rsa(1)
+e2 = 3
+c2 = 219878849218803628752496734037301843801487889344508611639028
+n2 = 245841236512478852752909734912575581815967630033049838269083
+
+bin_cleartext2 = pow(c2, 1/e2)
+print "rsa(1)"
+print bin_cleartext2
+
+
+

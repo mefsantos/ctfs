@@ -1,0 +1,15 @@
+64bit ctf:
+
+$rax  : 0xdeadba3d
+rdi   : 0xdeadbeef
+
+flag: 
+
+"encrypt" xors 0xdeadbeef with 1234 (or 0x1234)
+the flag is a SIGNED int, so we need to convert the result
+
+def toSigned32(n):
+    n = n & 0xffffffff
+    return n | (-(n & 0x80000000))
+
+
