@@ -1,0 +1,30 @@
+first mount the filesystem :
+mkdir mountpoint
+sudo mount -t ntfs family.ntfs mountpoint
+check the file mountpoint/USersFamily/Documents/credentials.txt
+-> it says we need to seek extended atributes
+i used this command to dump the extended attributes:
+$sudo find ~/ -type f  -iname "*" -exec getfattr -d {} + | grep  -v '\-\-\-\-\-\-\-\-\-\-\-\-\-' > reportdump.txt
+
+(use slethKit - containts fls and icat)
+
+list all the files (-Fr for recursion)
+$fls -Fr family.ntfs | grep "credentials.txt"
+
+get the id(inode number) of the file with extended attributes
+"r/r 13288-128-4:	Users/Family/Documents/credentials.txt:FILE0"
+
+icat = "image cat" to get information of the data contained in the extended attributes
+$icat family.ntfs 13288-128-4 > inode_dump
+
+use 'file' to check info
+
+$file inode_dump
+inode_dump: PNG image data, 1234 x 339, 8-bit/color RGB, non-interlaced
+
+its a png so we can move icat to a img.png file and try to open
+
+use tesseract (OCR) to extract the flag
+$tesseract creds.png creds
+$cat creds.txt | grep "CTF" > flag.txt
+

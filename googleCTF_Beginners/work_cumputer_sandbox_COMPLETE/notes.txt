@@ -1,0 +1,5 @@
+netcat to readme.ctfcompetition.com 1337
+inspect executables in /usr/bin
+use iconv with the /challenge/README.flag
+
+flag: CTF{4ll_D474_5h4ll_B3_Fr33}

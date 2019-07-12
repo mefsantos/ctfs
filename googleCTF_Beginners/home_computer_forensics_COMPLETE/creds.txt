@@ -1,0 +1,4 @@
+Logins for socialnetwork & govnetwork:
+
+CTF{congratsyoufoundmycreds}
+

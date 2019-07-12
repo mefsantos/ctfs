@@ -1,0 +1,202 @@
+0 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+1 
+2 0x2aa525a0 | 2aa525a0 | ˆ ­û       °
+3    (nil) |        0 | (null)
+4 0x2aa8ee39 | 2aa8ee39 | ÃÇ±
+5 
+6 
+7 
+8 
+9 
+10 
+11    (nil) |        0 | (null)
+12    (nil) |        0 | (null)
+13    (nil) |        0 | (null)
+14    (nil) |        0 | (null)
+15    (nil) |        0 | (null)
+16    (nil) |        0 | (null)
+17    (nil) |        0 | (null)
+18    (nil) |        0 | (null)
+19    (nil) |        0 | (null)
+20    (nil) |        0 | (null)
+21    (nil) |        0 | (null)
+22    (nil) |        0 | (null)
+23    (nil) |        0 | (null)
+24    (nil) |        0 | (null)
+25    (nil) |        0 | (null)
+26    (nil) |        0 | (null)
+27    (nil) |        0 | (null)
+28    (nil) |        0 | (null)
+29    (nil) |        0 | (null)
+30 
+31 
+32 0x2aa52cc0 | 2aa52cc0 | ‡ ­û-¥*-¥*-¥*-¥*-¥*-¥*-¥*-¥*
+33 0x2a89f700 | 2a89f700 | 
+34 0xffffcca8 | ffffcca8 | HÍÿÿXÃ§*
+35 0x2a908302 | 2a908302 | ƒÄ…Àt‹F‰F‰F‰F‰F‰F‰F‰ğƒÄ[^Ãv
+36 0x2aa52cc0 | 2aa52cc0 | ‡ ­û-¥*-¥*-¥*-¥*-¥*-¥*-¥*-¥*
+37    (nil) |        0 | (null)
+38    (nil) |        0 | (null)
+39 0x2a9fb2a2 | 2a9fb2a2 | __vdso_clock_gettime
+40 0x2a9082e7 | 2a9082e7 | Ã
+41 0x2aa52000 | 2aa52000 | °
+42 0x2aa52cc0 | 2aa52cc0 | ‡ ­û-¥*-¥*-¥*-¥*-¥*-¥*-¥*-¥*
+43 0x2a90047c | 2a90047c | 1ÒƒÄ‹…À”Â÷Ú€å€…Uÿÿÿ‹NHƒi…HÿÿÿÇA
+44 0x2aa52cc0 | 2aa52cc0 | ‡ ­û-¥*-¥*-¥*-¥*-¥*-¥*-¥*-¥*
+45    (nil) |        0 | (null)
+46    (nil) |        0 | (null)
+47 0xffffcce8 | ffffcce8 | µ§*h¨*D,ª* Íÿÿsª*4	¨*
+48 0x2aaaaa74 | 2aaaaa74 | 4	¨*
+49 
+50 
+51 
+52    (nil) |        0 | (null)
+53 
+54 0x2a90036b | 2a90036b | Ã•
+55 
+56 
+57 0x2aa52000 | 2aa52000 | °
+58 0xffffcd48 | ffffcd48 | ¨ÍÿÿğË§*Ô‰
+59 0x2aa7c358 | 2aa7c358 | ƒÄ¸
+60    (nil) |        0 | (null)
+61    (nil) |        0 | (null)
+62 
+63    (nil) |        0 | (null)
+64 0x8048703 |  8048703 | U‰åWìÔ
+65 0x2aaa1b5f | 2aaa1b5f | when setting up thread-local storage
+
+66 0xffffcc01 | ffffcc01 | 
+67 0x80489d4 |  80489d4 | restrictedshell
+68    (nil) |        0 | (null)
+69 0xffffcd74 | ffffcd74 | µ§*à
+70 
+71 0x2a8a3f12 | 2a8a3f12 | ™KÒ!¸ÔÍ*"ks8™Ğr˜”û³$
+72    (nil) |        0 | (null)
+73 0x2a8ad618 | 2a8ad618 | 
+74 0x2aa7b508 | 2aa7b508 | ²
+75 0x2aa80368 | 2aa80368 | 
+76 0x2aaa2c44 | 2aaa2c44 | symbol=%s;  lookup in file=%s [%lu]
+
+77 0xffffcda0 | ffffcda0 | 
+78 0x2aaa0b73 | 2aaa0b73 | <main program>
+79 0x2aa80934 | 2aa80934 | ©ª*h¨*X¨*<¥ª*
+80    (nil) |        0 | (null)
+81    (nil) |        0 | (null)
+82 0x2aaaa000 | 2aaaa000 | @?
+83 0x2aaaac08 | 2aaaac08 | 
+84    (nil) |        0 | (null)
+85    (nil) |        0 | (null)
+86    (nil) |        0 | (null)
+87 0xffffcdac | ffffcdac | ‰
+88 0x2aa8fa70 | 2aa8fa70 | Ç¥
+89 0x804827c |  804827c | q
+90 
+91 
+92 0x8049c64 |  8049c64 | MÉ§*
+93 0x2aa948a2 | 2aa948a2 | ‰Çe¡
+94 0x2aaaaad0 | 2aaaaad0 | tªª*
+95 0x2aa7ef1c | 2aa7ef1c | D>
+96 
+97 0x2aa52000 | 2aa52000 | °
+98 0xffffcda8 | ffffcda8 | èÍÿÿ‰
+99 0x2aa7cbf0 | 2aa7cbf0 | ƒÄ eô[^_]ÃffSèêïÿÿÃ#
+100 0x80489d4 |  80489d4 | restrictedshell
+101 
+102 
+103 
+104 0x8048703 |  8048703 | U‰åWìÔ
+105 0x804831c |  804831c | 
+106 
+107 0x2aa7c95b | 2aa7c95b | ÃÁ%
+108 0xffffcd9e | ffffcd9e | 
+109 0x2aa7b508 | 2aa7b508 | ²
+110 
+111    (nil) |        0 | (null)
+112 0x2aa947eb | 2aa947eb | ÆX
+113    (nil) |        0 | (null)
+114 0x2aa52000 | 2aa52000 | °
+115 
+116 0xffffcde8 | ffffcde8 | 
+117 0x2aa9b010 | 2aa9b010 | Z‹$‰$‹D$Â
+118 0xffffce24 | ffffce24 | 
+119    (nil) |        0 | (null)
+120 0x2aa52000 | 2aa52000 | °
+121 0x2aa52000 | 2aa52000 | °
+122 0xffffcde8 | ffffcde8 | 
+123 0x8048902 |  8048902 | ƒÄ ‹MüÉaüÃfUWVSè÷üÿÿÃ
+124 
+125 0xffffce94 | ffffce94 | ‘Ğÿÿ
+126 0x80489d4 |  80489d4 | restrictedshell
+127 
+128 
+129 0x8048703 |  8048703 | U‰åWìÔ
+130 0x2a8cea50 | 2a8cea50 | Ã°5
+131 0x804895b |  804895b | ƒÇƒÄ9÷uãƒÄ[^_]Ãv
+132 
+133 0x80489d4 |  80489d4 | restrictedshell
+134 
+135 
+136 0x2aa523dc | 2aa523dc | à1¥*
+137 0xffffce00 | ffffce00 | 
+138    (nil) |        0 | (null)
+139 0x2a8b8637 | 2a8b8637 | ƒÄƒìPèc
+140 0x2aa52000 | 2aa52000 | °
+141 0x2aa52000 | 2aa52000 | °
+142    (nil) |        0 | (null)
+143 0x2a8b8637 | 2a8b8637 | ƒÄƒìPèc
+144 
+145 0xffffce94 | ffffce94 | ‘Ğÿÿ
+146 0xffffce9c | ffffce9c | £ĞÿÿºĞÿÿÛĞÿÿÑÿÿ<ÑÿÿZÑÿÿoÑÿÿÑÿÿšÑÿÿ¬Ñÿÿ¾ÑÿÿÍÑÿÿæÒÿÿûÒÿÿÓÿÿÓÿÿ.ÓÿÿBÓÿÿRÓÿÿŒÓÿÿ³ÓÿÿÂÓÿÿ$Ôÿÿ<Ôÿÿ_Ôÿÿ•Ôÿÿ«Ôÿÿ½ÔÿÿĞÔÿÿâÔÿÿüÔÿÿÕÿÿ6ÕÿÿKÕÿÿjÕÿÿ…Õÿÿ¤Õÿÿ®ÕÿÿÅÕÿÿâÕÿÿÖÿÿÖÿÿ+ÖÿÿPÖÿÿbÖÿÿtÖÿÿ¸Öÿÿ×ÿÿP×ÿÿ”×ÿÿ®×ÿÿÀ×ÿÿü×ÿÿØÿÿAØÿÿTØÿÿkØÿÿ¡ØÿÿÃØÿÿÖØÿÿëØÿÿÙÿÿ—Şÿÿ¦Şÿÿ¿ŞÿÿìŞÿÿßÿÿßÿÿAßÿÿkßÿÿtßÿÿˆßÿÿŸßÿÿ³ßÿÿ×ßÿÿ
+147    (nil) |        0 | (null)
+148    (nil) |        0 | (null)
+149    (nil) |        0 | (null)
+150 0x2aa52000 | 2aa52000 | °
+151 0x2aaaac04 | 2aaaac04 | 
+152 0x2aaaa000 | 2aaaa000 | @?
+153    (nil) |        0 | (null)
+154 0x2aa52000 | 2aa52000 | °
+155 0x2aa52000 | 2aa52000 | °
+156    (nil) |        0 | (null)
+157 
+158 
+159    (nil) |        0 | (null)
+160    (nil) |        0 | (null)
+161    (nil) |        0 | (null)
+162 
+163 0x80485e0 |  80485e0 | 1í^‰áƒäğPTRhp‰h‰QVh¼ˆè¯ÿÿÿôfffffff‹$Ãffffff¸ƒœ-€œƒøv¸
+164    (nil) |        0 | (null)
+165 0x2aa9b010 | 2aa9b010 | Z‹$‰$‹D$Â
+166 0x2aa95880 | 2aa95880 | U 
+167 0x2aaaa000 | 2aaaa000 | @?
+168 
+169 0x80485e0 |  80485e0 | 1í^‰áƒäğPTRhp‰h‰QVh¼ˆè¯ÿÿÿôfffffff‹$Ãffffff¸ƒœ-€œƒøv¸
+170    (nil) |        0 | (null)
+171 0x8048601 |  8048601 | ôfffffff‹$Ãffffff¸ƒœ-€œƒøv¸
+172 0x80488bc |  80488bc | L$ƒäğÿqüU‰åQƒì‰ÈÇEìÔ‰ÆEğfÇEò_ÇEô
+173 
+174 0xffffce94 | ffffce94 | ‘Ğÿÿ
+175 0x8048910 |  8048910 | UWVSè÷üÿÿÃ
+176 0x8048970 |  8048970 | óÃ
+177 0x2aa95880 | 2aa95880 | U 
+178 0xffffce8c | ffffce8c | ©ª*
+179 0x2aaaa918 | 2aaaa918 | 
+180 
+181 0xffffd091 | ffffd091 | ./restrictedshell
+182    (nil) |        0 | (null)
+183 0xffffd0a3 | ffffd0a3 | LC_NUMERIC=pt_PT.UTF-8
+184 0xffffd0ba | ffffd0ba | QT_QPA_PLATFORMTHEME=appmenu-qt5
+185 0xffffd0db | ffffd0db | XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/mefsantos
+186 0xffffd110 | ffffd110 | GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+187 0xffffd13c | ffffd13c | LC_IDENTIFICATION=pt_PT.UTF-8
+188 0xffffd15a | ffffd15a | LC_CTYPE=pt_PT.UTF-8
+189 0xffffd16f | ffffd16f | LESSOPEN=| /usr/bin/lesspipe %s
+190 0xffffd18f | ffffd18f | XDG_VTNR=7
+191 0xffffd19a | ffffd19a | QT_IM_MODULE=ibus
+192 0xffffd1ac | ffffd1ac | LOGNAME=mefsantos
+193 0xffffd1be | ffffd1be | XDG_SEAT=seat0
+194 0xffffd1cd | ffffd1cd | PATH=/home/mefsantos/bin:/home/mefsantos/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-11-oracle/bin:/usr/lib/jvm/java-11-oracle/db/bin:/home/mefsantos/dex2jar-2.0:/home/mefsantos/android-studio/bin
+195 0xffffd2e6 | ffffd2e6 | LC_PAPER=pt_PT.UTF-8
+196 0xffffd2fb | ffffd2fb | GNOME_KEYRING_CONTROL=
+197 0xffffd312 | ffffd312 | DISPLAY=:0
+198 0xffffd31d | ffffd31d | LANG=en_US.UTF-8
+199 0xffffd32e | ffffd32e | TERM=xterm-256color
