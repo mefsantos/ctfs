@@ -40,6 +40,7 @@
 * [The Sleuth Kit](https://www.sleuthkit.org/sleuthkit/) - Filesystem image's toolkit
 * [ROPgadget Tool](https://github.com/JonathanSalwan/ROPgadget) - Search for ROP gadgets in binaries
 * [DotDotPwn](https://github.com/wireghoul/dotdotpwn) - Directory Traversal Fuzzer
+* [MSFVenom](https://www.offensive-security.com/metasploit-unleashed/msfvenom/) - Metasploit payload generator
 
 #### Websites
 * [Buffer overflow offset generator website](https://projects.jason-rush.com/tools/buffer-overflow-eip-offset-string-generator/)
