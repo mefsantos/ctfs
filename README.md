@@ -38,6 +38,7 @@
 * [Tesseract OCR](https://www.howtoforge.com/tutorial/tesseract-ocr-installation-and-usage-on-ubuntu-16-04/) - OCR tool
 * [Binwalk](https://github.com/ReFirmLabs/binwalk)
 * [The Sleuth Kit](https://www.sleuthkit.org/sleuthkit/) - Filesystem image's toolkit
+* [ROPgadget Tool](https://github.com/JonathanSalwan/ROPgadget) - Search for ROP gadgets in binaries
 
 #### Websites
 * [Buffer overflow offset generator website](https://projects.jason-rush.com/tools/buffer-overflow-eip-offset-string-generator/)
@@ -53,6 +54,13 @@
 * [LOLBAS](https://lolbas-project.github.io/#) - Linux Binaries
 * [DOSBox](https://www.dosbox.com/) - DOS x86 Emulator
 * [Volatility](https://www.volatilityfoundation.org/) - Memory Forensics
+
+#### Frameworks for GEF
+ * [Capstone (Python)](http://www.capstone-engine.org/) - Multi arch disassembler
+ * [FileBytes (Python)](https://github.com/sashs/filebytes) - Read and edit ELFs (also other formats)
+ * [Keystone (Python)](http://www.keystone-engine.org/) - Multi arch assembler
+ * [Ropper (Python)](https://github.com/sashs/Ropper) - ROP gadget extractor
+ * [RetDec (Python 3.4+)](https://github.com/avast/retdec) - multi arch decompiler
 
 #### Pentesting
  * [Dir Buster](https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)
