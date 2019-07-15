@@ -1,0 +1,10 @@
+strings rabbit-hole to see if the flag was there
+found out "data.xt"
+use binwalk -e to extract hidden content
+enter folder
+use xxd -r data.txt to revert the hexa dump
+use file * to see their types
+"revert_dump.txt: gzip compressed data, was "data2", last modified: Fri Mar 25 20:34:35 2016, from Unix"
+moved the file to a gzip to extract
+tar -xvf 
+IMCOMPLETE

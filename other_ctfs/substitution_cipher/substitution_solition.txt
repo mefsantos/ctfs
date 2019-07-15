@@ -1,0 +1,5 @@
+use https://www.guballa.de/substitution-solver to solve it
+
+
+FLAG: IFONLYMODERNCRYPTOWASLIKETHIS
+
