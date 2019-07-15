@@ -1,0 +1,35 @@
+GDB beginner notes:
+
+x: "examine"
+x\i: "examine instruction"
+x\b: "examine byte"
+x\xw $esp: "examine work as hexadecimal starting at $esp 
+
+set var : set value of variable "var"
+
+step (ou si - single instruction): 1 instruction at a time
+
+next: similar to 'step' but execvutes functions as 1 instruction 
+
+watch: observe variables
+
+rwatch: observe when variables are read
+
+info break/watch: info about break/watch points 
+
+bt - backtrace == stacktrace
+
+set instruction at given address to jne:
+set *(char*)0x00000000004008d8 = 0x75
+
+set to je:
+set *(char*)0x00000000004008d8 = 0x74
+
+# setup a hook for breakpoints that display the registers, the stack and the next 2 instructions 
+define hook-stop
+x/2i $eip
+x/24wx $esp
+end
+
+
+
