@@ -39,6 +39,7 @@
 * [Binwalk](https://github.com/ReFirmLabs/binwalk)
 * [The Sleuth Kit](https://www.sleuthkit.org/sleuthkit/) - Filesystem image's toolkit
 * [ROPgadget Tool](https://github.com/JonathanSalwan/ROPgadget) - Search for ROP gadgets in binaries
+* [DotDotPwn](https://github.com/wireghoul/dotdotpwn) - Directory Traversal Fuzzer
 
 #### Websites
 * [Buffer overflow offset generator website](https://projects.jason-rush.com/tools/buffer-overflow-eip-offset-string-generator/)
