@@ -1,0 +1,9 @@
+rabbit-hole is a tip for nested hidden (compressed) files
+use binwalk -e to extract hidden content
+now start the recursive decompression:
+decompress file
+if we get a data not containing the flag its probably an hexadump of another compressed file so we use:
+xxd -r in out
+check the actual filetype, move to the corresponding type and keep decompressing
+
+flag{c0mpr3ss10n_1s_fun}
