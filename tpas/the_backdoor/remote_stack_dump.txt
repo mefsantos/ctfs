@@ -1,0 +1,200 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+40088d || 0x40088d || HÉ√H9ÎuÍHÉƒ[]A\A]A^A_√ff.Ñ
+0 || (nil) || (null)
+0 || (nil) || (null)
+400840 || 0x400840 || AWAâˇAVIâˆAUIâ’ATLç%∏
+
+ec6fe0f0 || 0x7ffdec6fe0f0 || 
+0 || (nil) || (null)
+400840 || 0x400840 || AWAâˇAVIâˆAUIâ’ATLç%∏
+70cfc830 || 0x7fa070cfc830 || â«Ë˘ó
+0 || (nil) || (null)
+359212a8 || 0x7ffe359212a8 || ’í5˛
+
+40073d || 0x40073d || UHâÂSHÉÏhdHã%(
+0 || (nil) || (null)
+
+400650 || 0x400650 || 1ÌIâ—^Hâ‚HÉ‰PTI«¿∞@
+1cedd7c0 || 0x7ffd1cedd7c0 || 
+0 || (nil) || (null)
+0 || (nil) || (null)
+
+
+
+0 || (nil) || (null)
+0 || (nil) || (null)
+4008b0 || 0x4008b0 || Û√
+40073d || 0x40073d || UHâÂSHÉÏhdHã%(
+4008b0 || 0x4008b0 || Û√
+0 || (nil) || (null)
+0 || (nil) || (null)
+400650 || 0x400650 || 1ÌIâ—^Hâ‚HÉ‰PTI«¿∞@
+8733e370 || 0x7ffd8733e370 || 
+0 || (nil) || (null)
+400679 || 0x400679 || ÙfD
+f791eaf8 || 0x7ffef791eaf8 || 
+
+
+bca467d5 || 0x7ffdbca467d5 || ./the_backdoor
+0 || (nil) || (null)
+13cc27e4 || 0x7ffc13cc27e4 || LESSOPEN=| /usr/bin/lesspipe %s
+a0d63804 || 0x7ffda0d63804 || SUDO_GID=1002
+a9474812 || 0x7ffea9474812 || MAIL=/var/mail/root
+f940a826 || 0x7ffcf940a826 || USER=nobody
+c3763832 || 0x7fffc3763832 || LANGUAGE=en_US:en
+5d29b844 || 0x7ffd5d29b844 || SHLVL=2
+dbaa184c || 0x7ffddbaa184c || OLDPWD=/home/challenges
+f283b864 || 0x7ffdf283b864 || HOME=/nonexistent
+86328876 || 0x7ffc86328876 || LC_CTYPE=UTF-8
+6ca53885 || 0x7ffd6ca53885 || SUDO_UID=1002
+5a248893 || 0x7ffd5a248893 || LOGNAME=nobody
+8a9a18a2 || 0x7fff8a9a18a2 || _=./run.sh
+af0938ad || 0x7ffcaf0938ad || TERM=xterm-256color
+e9b9e8c1 || 0x7ffde9b9e8c1 || USERNAME=root
+f0d0c8cf || 0x7ffdf0d0c8cf || PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+ffd1f911 || 0x7ffeffd1f911 || LANG=en_US.UTF-8
+e30a9922 || 0x7ffde30a9922 || LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+6da46eaa || 0x7fff6da46eaa || SUDO_COMMAND=/bin/bash
+e0730ec1 || 0x7ffde0730ec1 || SHELL=/usr/sbin/nologin
+e4d92ed9 || 0x7ffde4d92ed9 || SUDO_USER=abaptista
+42dbceed || 0x7ffe42dbceed || LESSCLOSE=/usr/bin/lesspipe %s %s
+bad86f0f || 0x7ffdbad86f0f || PWD=/home/challenges/47ebd7e0519f5881049e5bc57fd287366d23b6d3
+151c8f4d || 0x7ffe151c8f4d || SOCAT_PID=21289
+9aa5f5d || 0x7ffe09aa5f5d || SOCAT_PPID=1722
+2b6b6f6d || 0x7fff2b6b6f6d || SOCAT_VERSION=1.7.3.1
+9dd2ef83 || 0x7fff9dd2ef83 || SOCAT_SOCKADDR=192.168.101.159
+5bd62fa2 || 0x7ffe5bd62fa2 || SOCAT_SOCKPORT=5012
+4972bfb6 || 0x7fff4972bfb6 || SOCAT_PEERADDR=193.137.26.160
+11407fd4 || 0x7ffe11407fd4 || SOCAT_PEERPORT=41153
+0 || (nil) || (null)
+
+d1bf7000 || 0x7fffd1bf7000 || ELF
+
+
+
+
+
+
+
+400040 || 0x400040 || 
+
+
+
+
+
+c465c000 || 0x7f2ec465c000 || ELF
+
+0 || (nil) || (null)
+
+400650 || 0x400650 || 1ÌIâ—^Hâ‚HÉ‰PTI«¿∞@
+
+
+
+
+
+
+
+
+
+0 || (nil) || (null)
+
+b4795bc9 || 0x7ffeb4795bc9 || O`|¥:0B
+
+641a2fe9 || 0x7fff641a2fe9 || ./the_backdoor
+
+ad58b9 || 0x7fff00ad58b9 || x86_64
+0 || (nil) || (null)
+0 || (nil) || (null)
+
+
+
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)

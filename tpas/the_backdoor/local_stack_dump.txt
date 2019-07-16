@@ -1,0 +1,200 @@
+%0$x || %0$p || %0$s
+f
+5532a780 || 0x15555532a780 ||
+5505b2c0 || 0x15555505b2c0 || H=ˇˇs1√HÉÏË˛›
+55526700 || 0x155555526700 ||
+
+
+
+
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+
+40088d || 0x40088d || HÉ√H9ÎuÍHÉƒ[]A\A]A^A_√ff.Ñ
+0 || (nil) || (null)
+0 || (nil) || (null)
+400840 || 0x400840 || AWAâˇAVIâˆAUIâ’ATLç%∏
+
+ffffdc30 || 0x7fffffffdc30 || 
+
+
+
+0 || (nil) || (null)
+ffffdc38 || 0x7fffffffdc38 || ‡ˇˇˇ
+
+
+0 || (nil) || (null)
+
+400650 || 0x400650 || 1ÌIâ—^Hâ‚HÉ‰PTI«¿∞@
+ffffdc30 || 0x7fffffffdc30 || 
+
+
+
+
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+0 || (nil) || (null)
+400650 || 0x400650 || 1ÌIâ—^Hâ‚HÉ‰PTI«¿∞@
+ffffdc30 || 0x7fffffffdc30 || 
+0 || (nil) || (null)
+
+
+
+
+ffffe01c || 0x7fffffffe01c || ./the_backdoor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ffffe319 || 0x7fffffffe319 || SHELL=/bin/bash
+ffffe329 || 0x7fffffffe329 || XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+ffffe363 || 0x7fffffffe363 || XAUTHORITY=/home/mefsantos/.Xauthority
+ffffe38a || 0x7fffffffe38a || LANGUAGE=en_US
+ffffe399 || 0x7fffffffe399 || INSTANCE=Unity
+ffffe3a8 || 0x7fffffffe3a8 || LC_MONETARY=pt_PT.UTF-8
+ffffe3c0 || 0x7fffffffe3c0 || QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+ffffe3e3 || 0x7fffffffe3e3 || MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+ffffe419 || 0x7fffffffe419 || TERMINATOR_UUID=urn:uuid:5a047251-d9ab-47b1-ba7f-831381fb6383
+ffffe457 || 0x7fffffffe457 || QT_ACCESSIBILITY=1
+ffffe46a || 0x7fffffffe46a || UPSTART_INSTANCE=
+ffffe47c || 0x7fffffffe47c || COMPIZ_CONFIG_PROFILE=ubuntu
+ffffe499 || 0x7fffffffe499 || WINDOWID=83886084
+ffffe4ab || 0x7fffffffe4ab || ORBIT_SOCKETDIR=/tmp/orbit-mefsantos
+ffffe4d0 || 0x7fffffffe4d0 || CLUTTER_IM_MODULE=xim
+ffffe4e6 || 0x7fffffffe4e6 || XMODIFIERS=@im=ibus
+ffffe4fa || 0x7fffffffe4fa || JAVA_HOME=/usr/lib/jvm/java-11-oracle
+ffffe520 || 0x7fffffffe520 || HOME=/home/mefsantos
+ffffe535 || 0x7fffffffe535 || QT4_IM_MODULE=xim
+ffffe547 || 0x7fffffffe547 || GTK2_MODULES=overlay-scrollbar
+ffffe566 || 0x7fffffffe566 || XDG_SESSION_DESKTOP=ubuntu
+ffffe581 || 0x7fffffffe581 || SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+ffffe5aa || 0x7fffffffe5aa || XDG_RUNTIME_DIR=/run/user/1000
+ffffe5c9 || 0x7fffffffe5c9 || LC_IDENTIFICATION=pt_PT.UTF-8
+ffffe5e7 || 0x7fffffffe5e7 || LC_ADDRESS=pt_PT.UTF-8
+ffffe5fe || 0x7fffffffe5fe || SESSIONTYPE=gnome-session
+ffffe618 || 0x7fffffffe618 || J2SDKDIR=/usr/lib/jvm/java-11-oracle
+ffffe63d || 0x7fffffffe63d || LC_CTYPE=pt_PT.UTF-8
+ffffe652 || 0x7fffffffe652 || GDMSESSION=ubuntu
+ffffe664 || 0x7fffffffe664 || IM_CONFIG_PHASE=1
+ffffe676 || 0x7fffffffe676 || UPSTART_JOB=unity-settings-daemon
+ffffe698 || 0x7fffffffe698 || UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1000/1662
+ffffe6dc || 0x7fffffffe6dc || IBUS_DISABLE_SNOOPER=1
+ffffe6f3 || 0x7fffffffe6f3 || XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+ffffe727 || 0x7fffffffe727 || XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+ffffe76b || 0x7fffffffe76b || LESSOPEN=| /usr/bin/lesspipe %s
+ffffe78b || 0x7fffffffe78b || XDG_SESSION_ID=c1
+ffffe79d || 0x7fffffffe79d || DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-9aFBCTuyZ6
+ffffe7d9 || 0x7fffffffe7d9 || _=./exploit.py
+ffffe7e8 || 0x7fffffffe7e8 || DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+ffffe81b || 0x7fffffffe81b || GTK_IM_MODULE=ibus
+ffffe82e || 0x7fffffffe82e || DESKTOP_SESSION=ubuntu
+ffffe845 || 0x7fffffffe845 || GPG_AGENT_INFO=/home/mefsantos/.gnupg/S.gpg-agent:0:1
+ffffe87b || 0x7fffffffe87b || LESSCLOSE=/usr/bin/lesspipe %s %s
+ffffe89d || 0x7fffffffe89d || GNOME_KEYRING_PID=
+ffffe8b0 || 0x7fffffffe8b0 || XDG_SESSION_TYPE=x11
+ffffe8c5 || 0x7fffffffe8c5 || LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+ffffee4d || 0x7fffffffee4d || GDM_LANG=en_US
+ffffee5c || 0x7fffffffee5c || LC_TELEPHONE=pt_PT.UTF-8
+ffffee75 || 0x7fffffffee75 || GTK_MODULES=gail:atk-bridge:unity-gtk-module
+ffffeea2 || 0x7fffffffeea2 || SHLVL=1
+ffffeeaa || 0x7fffffffeeaa || PWD=/home/mefsantos/ctfs/tpas/the_backdoor
+ffffeed5 || 0x7fffffffeed5 || DERBY_HOME=/usr/lib/jvm/java-11-oracle/db
+ffffeeff || 0x7fffffffeeff || JOB=gnome-session
+ffffef11 || 0x7fffffffef11 || COLORTERM=gnome-terminal
+ffffef2a || 0x7fffffffef2a || LC_NAME=pt_PT.UTF-8
+ffffef3e || 0x7fffffffef3e || LC_TIME=pt_PT.UTF-8
+ffffef52 || 0x7fffffffef52 || J2REDIR=/usr/lib/jvm/java-11-oracle
+ffffef76 || 0x7fffffffef76 || XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+ffffefda || 0x7fffffffefda || XDG_SEAT=seat0
+0 || (nil) || (null)
+
+55551000 || 0x155555551000 || ELF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 || (nil) || (null)
+
+ffffdff9 || 0x7fffffffdff9 || ùKg9äaÁÈQ˚»îjÈ≥x86_64
+
+0 || (nil) || (null)
+
+ffffefe9 || 0x7fffffffefe9 || ./the_backdoor
+
+ffffe009 || 0x7fffffffe009 || x86_64
+
+
+
+
+
+0 || (nil) || (null)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
