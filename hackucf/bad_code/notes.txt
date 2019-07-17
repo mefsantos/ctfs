@@ -1,0 +1,8 @@
+website: http://ctf.hackucf.org:4000/bad_code/bad_code.php
+
+so we notived we get an answer for the password with the time taken to evaluate the password so we can use a timming/bruteforce attack
+
+test every letter until the time increases and keep saving the character used to increase the computation time
+
+the base response time is roughly 0.01 seconds ("Response generated in: 0.010138988494873")
+

@@ -1,0 +1,4 @@
+We can do this two ways: 
+
+1) use the hint on the credentials and use wireshark. But first we need to trace (strace -f -e trace=network ./init_sat ) the ip address and then search for the packet
+2) reverse the binary (ghidra didnt work tho, used binary ninja) , identify a server link and netcat to the server
