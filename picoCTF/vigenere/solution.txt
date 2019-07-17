@@ -1,2 +1,0 @@
-Use https://www.guballa.de/vigenere-solver to solve it
-

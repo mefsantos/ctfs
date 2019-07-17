@@ -1,0 +1,17 @@
+# use dd to mount the image:
+dd if=animals.dd of=disk.img
+
+# (optional) check some info of the file system 
+fsstat disk.img
+
+# list every file and directory recursively
+fls -r disk.img
+
+# use icat to recover deleted images using its inode
+icat -r disk.img 14 > theflag.jpg
+
+# (optional) use tesseract OCR to transcribe the flag 
+tesseract theflag.jpg flag
+
+
+

@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 
-int code = 0;
+int code = 99;
+// my mod to debug it and find the addr of code in the stack
 
 int main() {
     char buf[0x50];
