@@ -1,245 +1,115 @@
 Running...
 0 AAAAAAAA%0$x | %0$x | %0$s
-0 OEF
 1 AAAAAAAA400859 | 400859 |
-1 OEF
 2 AAAAAAAA5532a780 | 5532a780 | 
-2 OEF
-3 3 OEF
-4 4 OEF
-5 5 OEF
-6 6 OEF
-7 7 OEF
-8 8 OEF
-9 9 OEF
-10 10 OEF
-11 AAAAAAAA4007bd | 4007bd | HÉ√H9ÎuÍHÉƒ[]A\A]A^A_√êf.Ñ
-11 OEF
+11 AAAAAAAA4007bd | 4007bd | H∆í√ÉH9√´u√™H∆í√Ñ[]A\A]A^A_√É¬êf.‚Äû
 12 AAAAAAAA0 | 0 | (null)
-12 OEF
 13 AAAAAAAA0 | 0 | (null)
-13 OEF
-14 AAAAAAAA400770 | 400770 | AWAVAâˇAUATLç%é
-14 OEF
-15 AAAAAAAA4005b0 | 4005b0 | 1ÌIâ—^Hâ‚HÉ‰PTI«¿‡@
-15 OEF
+14 AAAAAAAA400770 | 400770 | AWAVA‚Ä∞√øAUATL¬ç%≈Ω
+15 AAAAAAAA4005b0 | 4005b0 | 1√≠I‚Ä∞√ë^H‚Ä∞√¢H∆í√§√∞PTI√á√Ä√†@
 16 AAAAAAAAffffdc10 | ffffdc10 | 
-16 OEF
-17 17 OEF
-18 AAAAAAAA400770 | 400770 | AWAVAâˇAUATLç%é
-18 OEF
-19 AAAAAAAA54f84830 | 54f84830 | â«Ë˘ó
-19 OEF
+18 AAAAAAAA400770 | 400770 | AWAVA‚Ä∞√øAUATL¬ç%≈Ω
+19 AAAAAAAA54f84830 | 54f84830 | ‚Ä∞√á√®√π‚Äî
 20 AAAAAAAA0 | 0 | (null)
-20 OEF
-21 AAAAAAAAffffdc18 | ffffdc18 | ‡ˇˇˇ
-21 OEF
-22 22 OEF
-23 AAAAAAAA4006a6 | 4006a6 | UHâÂHÉÏ`dHã%(
-23 OEF
+21 AAAAAAAAffffdc18 | ffffdc18 | √†√ø√ø√ø
+23 AAAAAAAA4006a6 | 4006a6 | UH‚Ä∞√•H∆í√¨`dH‚Äπ%(
 24 AAAAAAAA0 | 0 | (null)
-24 OEF
-25 25 OEF
-26 AAAAAAAA4005b0 | 4005b0 | 1ÌIâ—^Hâ‚HÉ‰PTI«¿‡@
-26 OEF
+26 AAAAAAAA4005b0 | 4005b0 | 1√≠I‚Ä∞√ë^H‚Ä∞√¢H∆í√§√∞PTI√á√Ä√†@
 27 What's your name?
-27 OEF
 28 What's your name?
-28 OEF
 29 AAAAAAAA0 | 0 | (null)
-29 OEF
-30 30 OEF
-31 31 OEF
 32 AAAAAAAA0 | 0 | (null)
-32 OEF
 33 AAAAAAAA0 | 0 | (null)
-33 OEF
 34 AAAAAAAA0 | 0 | (null)
-34 OEF
 35 AAAAAAAA0 | 0 | (null)
-35 OEF
 36 AAAAAAAA55555168 | 55555168 |
-36 OEF
-37 AAAAAAAA5533e7db | 5533e7db | Î”
-37 OEF
+37 AAAAAAAA5533e7db | 5533e7db | √´√ì
 38 AAAAAAAA0 | 0 | (null)
-38 OEF
 39 AAAAAAAA0 | 0 | (null)
-39 OEF
-40 AAAAAAAA4005b0 | 4005b0 | 1ÌIâ—^Hâ‚HÉ‰PTI«¿‡@
-40 OEF
+40 AAAAAAAA4005b0 | 4005b0 | 1√≠I‚Ä∞√ë^H‚Ä∞√¢H∆í√§√∞PTI√á√Ä√†@
 41 AAAAAAAAffffdc10 | ffffdc10 | 
-41 OEF
 42 AAAAAAAA0 | 0 | (null)
-42 OEF
-43 AAAAAAAA4005d9 | 4005d9 | ÙfD
-43 OEF
+43 AAAAAAAA4005d9 | 4005d9 | √¥fD
 44 AAAAAAAAffffdc08 | ffffdc08 | 
-44 OEF
-45 45 OEF
-46 46 OEF
 47 AAAAAAAAffffe006 | ffffe006 | ./new_binary
-47 OEF
 48 AAAAAAAA0 | 0 | (null)
-48 OEF
 49 AAAAAAAAffffe013 | ffffe013 | LC_NUMERIC=pt_PT.UTF-8
-49 OEF
 50 AAAAAAAAffffe02a | ffffe02a | QT_QPA_PLATFORMTHEME=appmenu-qt5
-50 OEF
 51 AAAAAAAAffffe04b | ffffe04b | XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/mefsantos
-51 OEF
 52 AAAAAAAAffffe080 | ffffe080 | GNOME_DESKTOP_SESSION_ID=this-is-deprecated
-52 OEF
 53 AAAAAAAAffffe0ac | ffffe0ac | LC_MEASUREMENT=pt_PT.UTF-8
-53 OEF
 54 AAAAAAAAffffe0c7 | ffffe0c7 | UPSTART_EVENTS=started starting
-54 OEF
 55 AAAAAAAAffffe0e7 | ffffe0e7 | XDG_CURRENT_DESKTOP=Unity
-55 OEF
 56 AAAAAAAAffffe101 | ffffe101 | XDG_VTNR=7
-56 OEF
 57 AAAAAAAAffffe10c | ffffe10c | QT_IM_MODULE=ibus
-57 OEF
 58 AAAAAAAAffffe11e | ffffe11e | LOGNAME=mefsantos
-58 OEF
 59 AAAAAAAAffffe130 | ffffe130 | USER=mefsantos
-59 OEF
 60 AAAAAAAAffffe13f | ffffe13f | PATH=/home/mefsantos/bin:/home/mefsantos/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-11-oracle/bin:/usr/lib/jvm/java-11-oracle/db/bin:/home/mefsantos/dex2jar-2.0:/home/mefsantos/android-studio/bin:/home/mefsantos/binaryninja:/home/mefsantos/DirBuster-0.12:/home/mefsantos/retdec/bin
-60 OEF
 61 AAAAAAAAffffe2ae | ffffe2ae | LC_PAPER=pt_PT.UTF-8
-61 OEF
 62 AAAAAAAAffffe2c3 | ffffe2c3 | GNOME_KEYRING_CONTROL=
-62 OEF
 63 AAAAAAAAffffe2da | ffffe2da | DISPLAY=:0
-63 OEF
 64 AAAAAAAAffffe2e5 | ffffe2e5 | LANG=en_US.UTF-8
-64 OEF
 65 AAAAAAAAffffe2f6 | ffffe2f6 | TERM=xterm
-65 OEF
 66 AAAAAAAAffffe301 | ffffe301 | SHELL=/bin/bash
-66 OEF
 67 AAAAAAAAffffe311 | ffffe311 | XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
-67 OEF
 68 AAAAAAAAffffe34b | ffffe34b | XAUTHORITY=/home/mefsantos/.Xauthority
-68 OEF
 69 AAAAAAAAffffe372 | ffffe372 | LANGUAGE=en_US
-69 OEF
 70 AAAAAAAAffffe381 | ffffe381 | INSTANCE=Unity
-70 OEF
 71 AAAAAAAAffffe390 | ffffe390 | LC_MONETARY=pt_PT.UTF-8
-71 OEF
 72 AAAAAAAAffffe3a8 | ffffe3a8 | QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
-72 OEF
 73 AAAAAAAAffffe3cb | ffffe3cb | MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
-73 OEF
 74 AAAAAAAAffffe401 | ffffe401 | TERMINATOR_UUID=urn:uuid:60484877-b848-4bcb-8883-8181621dfa66
-74 OEF
 75 AAAAAAAAffffe43f | ffffe43f | QT_ACCESSIBILITY=1
-75 OEF
 76 AAAAAAAAffffe452 | ffffe452 | UPSTART_INSTANCE=
-76 OEF
 77 AAAAAAAAffffe464 | ffffe464 | COMPIZ_CONFIG_PROFILE=ubuntu
-77 OEF
 78 AAAAAAAAffffe481 | ffffe481 | WINDOWID=67108868
-78 OEF
 79 AAAAAAAAffffe493 | ffffe493 | ORBIT_SOCKETDIR=/tmp/orbit-mefsantos
-79 OEF
 80 AAAAAAAAffffe4b8 | ffffe4b8 | CLUTTER_IM_MODULE=xim
-80 OEF
 81 AAAAAAAAffffe4ce | ffffe4ce | XMODIFIERS=@im=ibus
-81 OEF
 82 AAAAAAAAffffe4e2 | ffffe4e2 | JAVA_HOME=/usr/lib/jvm/java-11-oracle
-82 OEF
 83 AAAAAAAAffffe508 | ffffe508 | HOME=/home/mefsantos
-83 OEF
 84 AAAAAAAAffffe51d | ffffe51d | QT4_IM_MODULE=xim
-84 OEF
 85 AAAAAAAAffffe52f | ffffe52f | GTK2_MODULES=overlay-scrollbar
-85 OEF
 86 AAAAAAAAffffe54e | ffffe54e | XDG_SESSION_DESKTOP=ubuntu
-86 OEF
 87 AAAAAAAAffffe569 | ffffe569 | SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
-87 OEF
 88 AAAAAAAAffffe592 | ffffe592 | XDG_RUNTIME_DIR=/run/user/1000
-88 OEF
 89 AAAAAAAAffffe5b1 | ffffe5b1 | LC_IDENTIFICATION=pt_PT.UTF-8
-89 OEF
 90 AAAAAAAAffffe5cf | ffffe5cf | LC_ADDRESS=pt_PT.UTF-8
-90 OEF
 91 AAAAAAAAffffe5e6 | ffffe5e6 | SESSIONTYPE=gnome-session
-91 OEF
 92 AAAAAAAAffffe600 | ffffe600 | J2SDKDIR=/usr/lib/jvm/java-11-oracle
-92 OEF
 93 AAAAAAAAffffe625 | ffffe625 | LC_CTYPE=pt_PT.UTF-8
-93 OEF
 94 AAAAAAAAffffe63a | ffffe63a | GDMSESSION=ubuntu
-94 OEF
 95 AAAAAAAAffffe64c | ffffe64c | IM_CONFIG_PHASE=1
-95 OEF
 96 AAAAAAAAffffe65e | ffffe65e | UPSTART_JOB=unity-settings-daemon
-96 OEF
 97 AAAAAAAAffffe680 | ffffe680 | UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1000/1662
-97 OEF
 98 AAAAAAAAffffe6c4 | ffffe6c4 | IBUS_DISABLE_SNOOPER=1
-98 OEF
 99 AAAAAAAAffffe6db | ffffe6db | XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
-99 OEF
 100 AAAAAAAAffffe70f | ffffe70f | XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
-100 OEF
 101 AAAAAAAAffffe753 | ffffe753 | LESSOPEN=| /usr/bin/lesspipe %s
-101 OEF
 102 AAAAAAAAffffe773 | ffffe773 | XDG_SESSION_ID=c1
-102 OEF
 103 AAAAAAAAffffe785 | ffffe785 | DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-9aFBCTuyZ6
-103 OEF
 104 AAAAAAAAffffe7c1 | ffffe7c1 | _=/usr/bin/python
-104 OEF
 105 AAAAAAAAffffe7d3 | ffffe7d3 | DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
-105 OEF
 106 AAAAAAAAffffe806 | ffffe806 | GTK_IM_MODULE=ibus
-106 OEF
 107 AAAAAAAAffffe819 | ffffe819 | DESKTOP_SESSION=ubuntu
-107 OEF
 108 AAAAAAAAffffe830 | ffffe830 | GPG_AGENT_INFO=/home/mefsantos/.gnupg/S.gpg-agent:0:1
-108 OEF
 109 AAAAAAAAffffe866 | ffffe866 | LESSCLOSE=/usr/bin/lesspipe %s %s
-109 OEF
 110 AAAAAAAAffffe888 | ffffe888 | GNOME_KEYRING_PID=
-110 OEF
 111 AAAAAAAAffffe89b | ffffe89b | XDG_SESSION_TYPE=x11
-111 OEF
 112 AAAAAAAAffffe8b0 | ffffe8b0 | OLDPWD=/home/mefsantos
-112 OEF
 113 AAAAAAAAffffe8c7 | ffffe8c7 | LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
-113 OEF
 114 AAAAAAAAffffee4f | ffffee4f | GDM_LANG=en_US
-114 OEF
 115 AAAAAAAAffffee5e | ffffee5e | LC_TELEPHONE=pt_PT.UTF-8
-115 OEF
 116 AAAAAAAAffffee77 | ffffee77 | GTK_MODULES=gail:atk-bridge:unity-gtk-module
-116 OEF
 117 AAAAAAAAffffeea4 | ffffeea4 | SHLVL=1
-117 OEF
 118 AAAAAAAAffffeeac | ffffeeac | PWD=/home/mefsantos/ctfs/tpas/the_backdoor
-118 OEF
 119 AAAAAAAAffffeed7 | ffffeed7 | DERBY_HOME=/usr/lib/jvm/java-11-oracle/db
-119 OEF
 120 AAAAAAAAffffef01 | ffffef01 | JOB=gnome-session
-120 OEF
 121 AAAAAAAAffffef13 | ffffef13 | COLORTERM=gnome-terminal
-121 OEF
 122 AAAAAAAAffffef2c | ffffef2c | LC_NAME=pt_PT.UTF-8
-122 OEF
 123 AAAAAAAAffffef40 | ffffef40 | LC_TIME=pt_PT.UTF-8
-123 OEF
 124 AAAAAAAAffffef54 | ffffef54 | J2REDIR=/usr/lib/jvm/java-11-oracle
-124 OEF
 125 AAAAAAAAffffef78 | ffffef78 | XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
-125 OEF
 126 AAAAAAAAffffefdc | ffffefdc | XDG_SEAT=seat0
-126 OEF
 127 AAAAAAAA0 | 0 | (null)
-127 OEF
-128 128 OEF
 129 AAAAAAAA55551000 | 55551000 | ELF
-129 OEF
