@@ -1,0 +1,6 @@
+Correct magic bytes ox the EXT3 fs (position 1080-1081) to 53-EF
+
+Mount the file system
+open file: flag.txt
+
+flag: picoCTF{ab0CD63BC762514ea2f4fc9eDEC8cb1E}
