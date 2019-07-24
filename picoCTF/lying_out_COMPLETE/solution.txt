@@ -1,0 +1,1 @@
+try to look at the png and identify the traffic from the logs asked for in the connection
