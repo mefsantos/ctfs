@@ -28,6 +28,8 @@
 * [pwntools (Python)](http://docs.pwntools.com/en/stable/)
 * [Scapy (Python)](https://scapy.net/) - packet Crafting
 * [Z3 SAT Solver (Python)](https://github.com/Z3Prover/z3)
+* [Primefac](https://pypi.org/project/primefac/) - (Python) RSA factorization
+
 
 #### Terminal toolkits
 * [gef (gdb)](https://github.com/hugsy/gef) - GDB extension
@@ -35,6 +37,7 @@
 * [steghide](http://steghide.sourceforge.net/) - Steganography tool
 * [stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) - Steganography tool
 * [John The Ripper](https://www.openwall.com/john/) - Password Cracker
+* [Fcrackzip](https://github.com/hyc/fcrackzip) - zip password cracking tool
 * [Tesseract OCR](https://www.howtoforge.com/tutorial/tesseract-ocr-installation-and-usage-on-ubuntu-16-04/) - OCR tool
 * [Binwalk](https://github.com/ReFirmLabs/binwalk)
 * [The Sleuth Kit](https://www.sleuthkit.org/sleuthkit/) - Filesystem image's toolkit
@@ -47,8 +50,11 @@
 * [Shell Storm](shell-storm.org) - Shellcode repository
 * [CTF-Tools](https://github.com/zardus/ctf-tools) - List of ctf tools
 * [Web Development Tools](https://mothereff.in/) - HTML Entity encoder, URL encoder, etc.
-* [XSS Hunter](https://xsshunter.com/)
-
+* [XSS Hunter](https://xsshunter.com/) - Online XSS Fuzzer
+* [Substitution solver](https://www.guballa.de/substitution-solver) - Solve substitution ciphers
+* [Factor](http://www.factordb.com/) - Factorize RSA components
+* [CTF-Katana](https://github.com/JohnHammond/ctf-katana) - GoTo repo for "low-hanging fruit" on CTFs
+* [Triy It Online](https://tio.run) - good to decode esoteric languages
 #### other
 * [Foremost](http://foremost.sourceforge.net/) - Data Carving
 * [hexedit](https://itsfoss.com/hex-editors-linux/) - Hexadecimal editor
@@ -72,3 +78,4 @@
 * [y/LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 * [y/John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
 * [y/GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
+* [Blog - G0tM1lk](https://blog.g0tmi1k.com/)
