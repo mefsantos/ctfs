@@ -1,0 +1,12 @@
+first send all printable characters as input to get the mapping from the program
+# python$ strings.printable
+
+then get the cipher text and create a mapping dictionary
+
+finally just read the string to crack and get the correct char from the mapping dictionary 
+
+# note: some special chars were swapped but its easily fixable
+
+cracked flag: "picoCTF}qu4ckm3{5c21fc8d "
+
+flag: picoCTF{qu4ckm3_5c21fc8d}
