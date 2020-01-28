@@ -1,0 +1,8 @@
+1. press the buttons
+2. change the last page to be a form with a clickable action:
+
+<form action="button2.php" method="POST">
+    <input type="submit" value="PUSH ME! I am your only hope!"/>
+</form>
+
+3. submit
