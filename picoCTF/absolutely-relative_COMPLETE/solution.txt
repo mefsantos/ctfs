@@ -1,0 +1,4 @@
+just cd to a directory with writting permissions and write "yes" to a file names "permission.txt"
+(PERMISSION!!!!!) not permissionS... PER.MI.SSION!
+
+then execute there the binary
