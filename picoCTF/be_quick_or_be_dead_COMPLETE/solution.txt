@@ -1,0 +1,4 @@
+Open file in binary ninja
+seek for the set_timer() function
+patch the "rax = alarm(1)" to NOP and "save as".
+just run the resulting file
