@@ -1,0 +1,9 @@
+# in-out-error
+
+# run the executable in the picoCTF server and use stdout/err redirections:
+
+# 2> : redirects stderr
+
+$> ./in-out-error ~/out.txt 2> ~/err.txt
+
+
